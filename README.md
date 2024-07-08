@@ -1,7 +1,7 @@
 
 ## Features [KYC AND FINANCIAL WIDGET]
 
-![KYC WIDGET](../img/kyc.png)
+![KYC WIDGET](img/kyc.png)
 
 
 ## Installation
